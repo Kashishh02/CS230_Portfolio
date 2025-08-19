@@ -1,4 +1,6 @@
 # CS230 Portfolio - Software Design Document
+*A portfolio submission for CS 230, showcasing my software design work for The Gaming Room project.*
+
 
 ## Artifact
 This repository contains the software design document created for *The Gaming Room* project.
